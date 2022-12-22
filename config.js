@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://vk.com/vkmusic',
 		},
 		{
 			id: '2',
@@ -110,9 +110,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'Ozon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://ozon.ru/',
 		},
 		{
 			id: '5',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jazz',
+					link: 'https://vk.com/music/playlist/-147845620_937_dfcd91ec827010a76d',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Leha',
+					link: 'https://vk.com/music/playlist/234483581_45001617_0cf310a084dcb6998f',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'From Yandex',
+					link: 'https://vk.com/music/playlist/483046519_77_b3e7e3f8944158c9d3',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sensual triphop',
+					link: 'https://vk.com/music/playlist/61499545_165_e2ff953c8d33bcf12c',
 				},
 			],
 		},
@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'VK music',
+					link: 'https://vk.com/music/',
 				},
 				{
 					name: 'Reddit',
